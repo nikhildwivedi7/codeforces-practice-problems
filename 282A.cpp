@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// accepted solution
 int main()
 {
     int n;
